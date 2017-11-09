@@ -1,0 +1,29 @@
+  <html>
+  <head>
+  <title> An Error Has Occurred </title>
+  <style>
+      h1 {font-size: 75; font-family: Courier} 
+      p.p1 {font-size: 45; font-family: Courier}
+      img.kitty-1 {height: 329; Width: 425;}
+      img.kitty-2 {height: 329; width: 477;}
+      img.kitty-3 {height: 329; width: 425;}
+      p.p2 {font-size: 35;}
+      img.hazard {height: }
+ a:link, a:visited
+    {background-color: #f44336; color: white; padding: 14px 25px; text-align: center; text-decoration: none; display: inline-block; font-family: Courier}
+ a:hover, a:active {background-color: red;}
+  </style>
+  </head>
+  <body>
+  <img align="right" img class="hazard" src="http://free-icon-download.com/modules/PDdownloads/images/screenshots/hazard-sign-images-general_warning.png">
+   <h1 align="center"> 404: Page not found </h1>
+  <p class="p1" align="center"> We're sorry but the page you were looking for could be found. To make up for it, here are some cats. 
+  </p>
+ <img align="left" class="kitty-1" src="https://factsandcats.files.wordpress.com/2015/11/happy_kity.jpg?w=1400">
+ <img align="center" class="kitty-2" src="http://www.petmd.com/sites/default/files/happy-healthy-kitten.jpg">
+ <img align="right" class="kitty-3" src="http://www.patsusmilch.com/wp-content/uploads/2014/11/happy-kitten-kittens-5890512-1600-1200.jpg">
+  <br>
+  <br>
+  <p class="p2" align="center"><a href="https://www.pexels.com/search/cat/">Click for more cats</a> </p> 
+ </body>
+ </html>
